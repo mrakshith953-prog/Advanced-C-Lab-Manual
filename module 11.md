@@ -258,6 +258,7 @@ o	If a character is not a space, it may belong to a word. If it's the first non-
 
 Program:
 ```
+
 #include<stdio.h>
 #include<string.h>
 int main()
